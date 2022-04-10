@@ -27,6 +27,9 @@ Usage
 
 This program utilizes the Command Line Interface (CLI).  Following the file path to the daily_rate_sheet.csv, the user will enter their qualifying data which includes, credit score, current monthly debt, monthly income, desired loan amont and home value.
 
+The file path is:
+Challenges/Module Challenge 2/Starter_Code-2/loan_qualifier_app/data/daily_rate_sheet.csv
+
 ---
 
 Contributors
@@ -37,4 +40,4 @@ Starter code was provided by UC Berkeley Extensions Fintech Bootcamp Program.  A
 
 License
 
-This project is only licensed for use by James Milan and the contributors of the UC Berkeley Extensions Fintech Bootcamp Program.
+This project is only licensed for use by James Milan and the contributors, professors and TAs of the UC Berkeley Extensions Fintech Bootcamp Program.
