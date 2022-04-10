@@ -8,7 +8,7 @@ Technologies
 
 The code is written utilizing Python version 3.9.7 with the listed libraries which are required to execute the program through app.py
 
-https://github.com/JEKlektik/Mod_2/issues/1#issue-1199137118
+<img width="226" alt="Screen Shot 2022-04-10 at 11 34 03 AM" src="https://user-images.githubusercontent.com/101614932/162634449-42cc7441-0e94-40d9-b45d-45bdc7933c44.png">
 
 ---
 
