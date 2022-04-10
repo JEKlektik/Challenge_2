@@ -18,11 +18,13 @@ The code is written utilizing Python version 3.9.7 with the listed libraries whi
 Installation Guide
 
 Via the command prompt, navigate to desired folder to install files and use the following command:
+   
    git clone https://github.com/JEKlektik/Mod_2
 
 Enter the following to run the app:
-
-python app.py
+   
+   python app.py
+   
 ---
 
 Usage
