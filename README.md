@@ -1,33 +1,41 @@
-# Project Title
+Mod 2 Loan Qualifier
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
----
-
-## Technologies
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This is a loan qualifier program which will generate a list of qualifying loans based on user data.  The result will be saved to a csv file for review.
 
 ---
 
-## Installation Guide
+Technologies
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
-
----
-
-## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
-
----
-
-## Contributors
-
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+The code is written utilizing Python version 3.9.7 with the listed libraries which are required to execute the program through app.py:
+ 
+ import sys
+ import fire
+ import questionary
+ from pathlib import Path
 
 ---
 
-## License
+Installation Guide
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+Via the command prompt, navigate to desired folder to install files and use the following command:
+   git clone https://github.com/JEKlektik/Mod_2
+
+Enter the following to run the app:
+   python app.py
+---
+
+Usage
+
+This program utilizes the Command Line Interface (CLI).  Following the file path to the daily_rate_sheet.csv, the user will enter their qualifying data which includes, credit score, current monthly debt, monthly income, desired loan amont and home value.
+
+---
+
+Contributors
+
+Starter code was provided by UC Berkeley Extensions Fintech Bootcamp Program.  All modifications were created by James Milan.
+
+---
+
+License
+
+This project is only licensed for use by James Milan and the contributors, professors and TAs of the UC Berkeley Extensions Fintech Bootcamp Program.
