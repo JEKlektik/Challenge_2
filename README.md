@@ -23,18 +23,18 @@ Enter the following to run the app:
 
 ---
 
-## Usage
+Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
-
----
-
-## Contributors
-
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+This program utilizes the Command Line Interface (CLI).  Following the file path to the daily_rate_sheet.csv, the user will enter their qualifying data which includes, credit score, current monthly debt, monthly income, desired loan amont and home value.
 
 ---
 
-## License
+Contributors
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+Starter code was provided by UC Berkeley Extensions Fintech Bootcamp Program.  All modifications were created by James Milan.
+
+---
+
+License
+
+This project is only licensed for use by James Milan and the contributors of the UC Berkeley Extensions Fintech Bootcamp Program.
