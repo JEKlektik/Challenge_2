@@ -14,9 +14,13 @@ from pathlib import Path
 
 ---
 
-## Installation Guide
+Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Via the command prompt, navigate to desired folder to install files and use the following command:
+  git clone https://github.com/JEKlektik/Mod_2
+  
+Enter the following to run the app:
+  python app.py
 
 ---
 
