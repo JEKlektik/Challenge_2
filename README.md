@@ -18,6 +18,7 @@ Via the command prompt, navigate to desired folder to install files and use the 
   git clone https://github.com/JEKlektik/Mod_2
   
 Enter the following to run the app:
+  
   python app.py
 
 ---
