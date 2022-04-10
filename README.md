@@ -7,7 +7,7 @@ This is a loan qualifier program which will generate a list of qualifying loans 
 Technologies
 
 The code is written utilizing Python version 3.9.7 with the listed libraries which are required to execute the program through app.py:
- 
+> <img alt="Screen Shot 2022-04-10 at 11 34 03 AM" width="226" src="https://user-images.githubusercontent.com/101614932/162634449-42cc7441-0e94-40d9-b45d-45bdc7933c44.png">
  import sys
  import fire
  import questionary
