@@ -1,6 +1,6 @@
 # *Mod 2 Loan Qualifier Program* 
 
-This is a loan qualifier program which will generate a list of qualifying loans based on user data.  The result will be saved to a csv file for review.
+This loan qualifier program will generate a list of qualifying loans based on individual user data.  The result will be saved to a csv file that can be shared as a spreadsheet.
 
 ---
 
